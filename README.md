@@ -63,14 +63,6 @@ The visualization represents the relative size, ordering, and distance of each a
 
 ---
 
-### [Chibi Gacha Gotchi](https://github.com/Gerhulintron/ChibiGachaGotchi_Web_Build)
-
-A deployed Unity WebGL game build exploring collectible characters, interactive systems, and browser-based game delivery.
-
-The public repository contains the playable WebGL deployment, while the full Unity project is maintained separately.
-
-**Technologies:** Unity, C#, WebGL
-
 ## Game and Interactive Development
 
 Game development is a major part of my work. I am interested not only in gameplay mechanics, but also in the connections between games, physical spaces, performance, sound, education, and experimental storytelling.
